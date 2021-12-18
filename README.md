@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parthgairola
+- 👋 Hi, My name is @Parthgairola
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on C and Data structures & algorithms
